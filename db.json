@@ -1,150 +1,39 @@
 {
-  "catData": [
+  "dogs": [
     {
-      "id": "d55E_KMKZ",
-      "url": "https://cdn2.thecatapi.com/images/d55E_KMKZ.jpg",
-      "width": 2160,
-      "height": 1284
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     },
     {
-      "id": "8r4M61iyS",
-      "url": "https://cdn2.thecatapi.com/images/8r4M61iyS.jpg",
-      "width": 4592,
-      "height": 2411
-    },
-    {
-      "id": "hBXicehMA",
-      "url": "https://cdn2.thecatapi.com/images/hBXicehMA.jpg",
-      "width": 1600,
-      "height": 951
-    },
-    {
-      "id": "gVrhv_yAY",
-      "url": "https://cdn2.thecatapi.com/images/gVrhv_yAY.jpg",
-      "width": 1600,
-      "height": 1051
-    },
-    {
-      "id": "vH0bd0YDH",
-      "url": "https://cdn2.thecatapi.com/images/vH0bd0YDH.jpg",
-      "width": 1335,
-      "height": 1206
-    },
-    {
-      "id": "r_njVlaSz",
-      "url": "https://cdn2.thecatapi.com/images/r_njVlaSz.jpg",
-      "width": 1920,
-      "height": 1080
-    }
-  ],
-  "users": [
-    {
-      "user": "naman",
-      "email": "naman@gmail.com",
-      "password": "abcd",
-      "id": 1
-    },
-    {
-      "user": "cunnu",
-      "email": "cunnu@gmail.com",
-      "password": "cunnu123",
+      "name": "aman",
+      "age": 11,
+      "place": "ams",
+      "gender": "male",
       "id": 2
     },
     {
-      "user": "SubodhSingh8543",
-      "email": "abc@gmail.com",
-      "password": "abcs",
-      "id": 3
-    }
-  ],
-  "hotels": [
-    {
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/99884/large/d0815ab455e330a7.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "1",
-      "capacity": "2",
-      "cost": "2000",
-      "booked": false,
-      "id": 1
-    },
-    {
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/99884/large/d0815ab455e330a7.jpg",
-      "type_of_room": "non AC",
-      "bed_type": "Double",
-      "no_of_persons": "32",
-      "capacity": "32",
-      "cost": "3232",
-      "booked": false,
-      "id": 2
-    },
-    {
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/99884/large/d0815ab455e330a7.jpg",
-      "type_of_room": "non AC",
-      "bed_type": "Double",
-      "no_of_persons": "32",
-      "capacity": "54",
-      "cost": "4545",
-      "booked": false,
+      "name": "naman",
+      "age": 12,
+      "place": "ams",
+      "gender": "male",
       "id": 3
     },
     {
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/99884/large/d0815ab455e330a7.jpg",
-      "type_of_room": "non AC",
-      "bed_type": "Double",
-      "no_of_persons": "322",
-      "capacity": "32",
-      "cost": "3",
-      "booked": false,
-      "id": 4
-    },
-    {
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/99884/large/d0815ab455e330a7.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "23",
-      "capacity": "2",
-      "cost": "3",
-      "booked": false,
+      "name": "jksakj",
+      "age": 13,
+      "place": "ams",
+      "gender": "female",
       "id": 5
     },
     {
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/99884/large/d0815ab455e330a7.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "23",
-      "capacity": "2",
-      "cost": "3",
-      "booked": false,
+      "name": "hjashjbsaj",
+      "age": 14,
+      "place": "ams",
+      "gender": "female",
       "id": 6
-    },
-    {
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/99884/large/d0815ab455e330a7.jpg",
-      "type_of_room": "non AC",
-      "bed_type": "Single",
-      "no_of_persons": "3",
-      "capacity": "2",
-      "cost": "3444",
-      "booked": false,
-      "id": 7
-    },
-    {
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/99884/large/d0815ab455e330a7.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "21",
-      "capacity": "2",
-      "cost": "213",
-      "booked": false,
-      "id": 10
     }
   ]
 }
