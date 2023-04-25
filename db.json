@@ -35,5 +35,351 @@
       "gender": "female",
       "id": 6
     }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "brand": "tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    },
+    {
+      "brand": "tata",
+      "type": "manual",
+      "year": 2020,
+      "kms": 36723,
+      "Description": "dshjjhjh",
+      "Price": 23323,
+      "id": 3
+    },
+    {
+      "brand": "mahindra",
+      "type": "Manual",
+      "year": 2021,
+      "kms": 7632,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 673267,
+      "id": 4
+    },
+    {
+      "brand": "nexa",
+      "type": "Manual",
+      "year": 2023,
+      "kms": 4376,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 873443,
+      "id": 7
+    },
+    {
+      "brand": "nexa",
+      "type": "Manual",
+      "year": 2023,
+      "kms": 4376,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 23562,
+      "id": 8
+    },
+    {
+      "brand": "nexa",
+      "type": "Manual",
+      "year": 2022,
+      "kms": 4376,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 23562,
+      "id": 9
+    },
+    {
+      "brand": "nexa",
+      "type": "Manual",
+      "year": 2022,
+      "kms": 67334,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 23562,
+      "id": 10
+    },
+    {
+      "brand": "nexa",
+      "type": "Manual",
+      "year": 2022,
+      "kms": 67367,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 23562,
+      "id": 11
+    },
+    {
+      "brand": "nexa",
+      "type": "Manual",
+      "year": 2023,
+      "kms": 782873,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 23562,
+      "id": 12
+    },
+    {
+      "brand": "nexa",
+      "type": "Manual",
+      "year": 2023,
+      "kms": 782873,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 8723,
+      "id": 13
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 32,
+      "Description": "sdhhkbjskjbhd",
+      "Price": 343443,
+      "id": 14
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 32,
+      "Description": "sdhhkbjskjbhd",
+      "Price": 343443,
+      "id": 15
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 32,
+      "Description": "sdhhkbjskjbhd",
+      "Price": 43743,
+      "id": 16
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 43734,
+      "Description": "sdhhkbjskjbhd",
+      "Price": 43743,
+      "id": 17
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 43734,
+      "Description": "sdhhkbjskjbhd",
+      "Price": 43743,
+      "id": 18
+    },
+    {
+      "brand": "tata",
+      "type": "Manual",
+      "year": 2020,
+      "kms": 443,
+      "Description": "sdjk",
+      "Price": 94334,
+      "id": 19
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2022,
+      "kms": 433,
+      "Description": "erfer",
+      "Price": 23232,
+      "id": 22
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2022,
+      "kms": 433,
+      "Description": "erfer",
+      "Price": 23232,
+      "id": 23
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2022,
+      "kms": 433,
+      "Description": "erfer",
+      "Price": 23232,
+      "id": 24
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2022,
+      "kms": 433,
+      "Description": "erfer",
+      "Price": 23232,
+      "id": 25
+    },
+    {
+      "brand": "tata",
+      "type": "AMT",
+      "year": 2023,
+      "kms": 433,
+      "Description": "erfer",
+      "Price": 23232,
+      "id": 26
+    },
+    {
+      "brand": "audi",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 3278,
+      "Description": "DSJKS",
+      "Price": 3223,
+      "id": 27
+    },
+    {
+      "brand": "audi",
+      "type": "AMT",
+      "year": 2021,
+      "kms": 3278,
+      "Description": "DSJKS",
+      "Price": 3223,
+      "id": 28
+    },
+    {
+      "brand": "audi",
+      "type": "AMT",
+      "year": 2021,
+      "kms": 233,
+      "Description": "DSJKS",
+      "Price": 3223,
+      "id": 29
+    },
+    {
+      "brand": "audi",
+      "type": "AMT",
+      "year": 2021,
+      "kms": 233,
+      "Description": "DSJKS",
+      "Price": 3245,
+      "id": 30
+    },
+    {
+      "brand": "audi",
+      "type": "AMT",
+      "year": 2022,
+      "kms": 233,
+      "Description": "DSJKS",
+      "Price": 3245,
+      "id": 31
+    },
+    {
+      "brand": "audi",
+      "type": "AMT",
+      "year": 2023,
+      "kms": 233,
+      "Description": "DSJKS",
+      "Price": 3245,
+      "id": 32
+    },
+    {
+      "brand": "mahindra",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 233,
+      "Description": "njsd",
+      "Price": 433,
+      "id": 33
+    },
+    {
+      "brand": "mahindra",
+      "type": "AMT",
+      "year": 2020,
+      "kms": 34893,
+      "Description": "njsd",
+      "Price": 4034,
+      "id": 34
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "brand": "tata",
+      "year": 2017,
+      "type": "AMT",
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000,
+      "id": 1
+    },
+    {
+      "brand": "mahindra",
+      "year": 2022,
+      "type": "AMT",
+      "kms": 7632,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 673267,
+      "id": 2
+    },
+    {
+      "brand": "nexa",
+      "year": 2022,
+      "type": "Manual",
+      "kms": 67367,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 23562,
+      "id": 3
+    },
+    {
+      "brand": "nexa",
+      "year": 2022,
+      "type": "Manual",
+      "kms": 67334,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 23562,
+      "id": 4
+    },
+    {
+      "brand": "nexa",
+      "year": 2022,
+      "type": "Manual",
+      "kms": 4376,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 23562,
+      "id": 5
+    },
+    {
+      "brand": "mahindra",
+      "year": 2022,
+      "type": "Manual",
+      "kms": 7632,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 673267,
+      "id": 7
+    },
+    {
+      "brand": "mahindra",
+      "year": 2022,
+      "type": "AMT",
+      "kms": 7632,
+      "Description": "dbhsbjhds. dshsjs",
+      "Price": 673267,
+      "id": 8
+    },
+    {
+      "brand": "tata",
+      "year": 2020,
+      "type": "AMT",
+      "kms": 32,
+      "Description": "sdhhkbjskjbhd",
+      "Price": 343443,
+      "id": 9
+    }
   ]
 }
