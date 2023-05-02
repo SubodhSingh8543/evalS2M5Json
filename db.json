@@ -381,5 +381,55 @@
       "Price": 343443,
       "id": 9
     }
+  ],
+  "products": [
+    {
+      "name": "eweww",
+      "description": "ewew",
+      "gender": "Male",
+      "category": "Trousers",
+      "price": 93034,
+      "id": 1
+    },
+    {
+      "name": "eweww",
+      "description": "ewew",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": 98343,
+      "id": 3
+    },
+    {
+      "name": "wdss",
+      "description": "tdsjhbkdsabkhs",
+      "gender": "Male",
+      "category": "Trousers",
+      "price": 98545,
+      "id": 4
+    },
+    {
+      "name": "wdss",
+      "description": "tdsjhbkdsabkhs",
+      "gender": "Male",
+      "category": "Trousers",
+      "price": 98545,
+      "id": 5
+    },
+    {
+      "name": "djnksd",
+      "description": "sdjdsksjkd",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 98443,
+      "id": 6
+    },
+    {
+      "name": "djnksd",
+      "description": "sdjdsksjkd",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 98443,
+      "id": 7
+    }
   ]
 }
