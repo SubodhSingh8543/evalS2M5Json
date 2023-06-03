@@ -1,32 +1,18 @@
 {
   "users": [
     {
-      "user": "Chunnu",
-      "email": "cunnu@gmail.com",
-      "password": "cunnu123",
-      "isDoctor": true,
+      "username": "raju",
+      "email": "raju@gmail.com",
+      "image": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "password": "raju123",
       "id": 1
     },
     {
-      "user": "naman",
-      "email": "naman@gmail.com",
-      "password": "naman123",
-      "isDoctor": true,
+      "username": "ramu",
+      "email": "ramu@gmail.com",
+      "image": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "password": "ramu123",
       "id": 2
-    },
-    {
-      "user": "sd",
-      "email": "dssd",
-      "password": "dsd",
-      "isDoctor": false,
-      "id": 3
-    },
-    {
-      "user": "SubodhSingh8543",
-      "email": "abc@gmail.com",
-      "password": "abcd123",
-      "isDoctor": false,
-      "id": 4
     }
   ],
   "appointments": [
